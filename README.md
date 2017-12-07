@@ -1,2 +1,6 @@
 # hello-world
-This is my first step to travel around the GitHub and this is my first repository
+
+Hi guys!
+
+I am a undergraduate student who is learning programming. I am very interested in Python and image processing.
+Now, let me begin my trip on GitHub.
